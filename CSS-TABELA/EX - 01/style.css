@@ -1,0 +1,38 @@
+.titulo{
+    text-align: center;
+    background-color: #0D5188;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    
+}
+table{
+    text-align: center;
+    padding: 2px;
+    width: 600px;
+    
+    
+}
+
+.azulmedio{
+    background-color: #66C5E3;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-weight: bold
+  }
+.cidades{
+    color:#0D5188;
+    text-align:left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    background-color: #c7e7f3;
+    font-weight:bold
+    
+  }
+  .posicao{
+    background-color: silver;
+    width: 10%;
+  }
+  .dados{
+    width: 15%;
+  }

@@ -1,0 +1,64 @@
+table{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    border-collapse: collapse;
+}
+table tr{
+    border: 1px solid  #DDDDDD;
+}
+th{
+    color:#999999;
+    font-size: 13px;
+    background-color: white;
+}
+.azulforte{
+    color:#003366;
+    font-size: 18px;
+    font-weight: bold;
+    padding-right: 10px;
+}
+.azulclaro{
+    color:#1398BE;
+    font-size: 18px;
+    font-weight: bold;
+    padding-right: 10px;
+}
+.laranja{
+    color: #DE9800;
+    font-size: 18px;
+    font-weight: bold;
+    padding-right: 10px;
+}
+.cinza{
+    color: #CCCCCC;
+    font-size: 18px;
+    font-weight: bold;
+    padding-right: 10px;
+}
+.vermelho{
+    color:#C91B04;
+    font-size: 18px;
+    font-weight: bold;
+    padding-right: 10px;
+}
+.times{
+    text-align: left;
+    font-weight: bold;
+    color:  #666666;
+    padding-right: 50px;
+}
+.ponto{
+    color:black;
+    font-weight: bold;
+    text-align: center;
+}
+table th, table td{
+    padding: 10px;
+}
+.bordalonga{
+    border-bottom: 2px solid  #CCCCCC;
+}
+table td:nth-child(2n+3){
+    background-color: #F7F7F7;
+}
+
