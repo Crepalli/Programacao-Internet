@@ -1,0 +1,28 @@
+.logo-fia{
+    float: left;
+    width: 150px;
+    height: 150px;
+}
+.logo-f1{
+    float: right;
+    width: 100px;
+}
+.menu{
+    width: 100%;
+}
+.titulo{
+    text-align: center;
+}
+body{
+    background-image: none;
+}
+.tabela{
+    margin-top: 300px;
+    border: 3px solid black;
+    margin:150px;
+    padding: 90px;
+    border-collapse: collapse;
+}
+td{
+    border: 3px solid black
+}
