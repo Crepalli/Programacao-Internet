@@ -1,0 +1,202 @@
+table{
+
+  background-color: rgba(128, 128, 128, 0.5); 
+    text-align: center;
+    width: 90%;
+    max-width: 800px;
+    margin: auto;
+   color: white;
+    margin-top: 50px;
+    
+    border-collapse:collapse ;
+
+}
+
+.header{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 5vh;
+  background-color: white;
+  margin: 0;
+  position: sticky;
+}
+
+a{
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+  font-size: 20px;
+}
+span{
+  color: red;
+}
+.textsize{
+
+    font-size: small;
+
+}
+
+
+ h1{
+
+  text-align: center;
+  font-size: xx-large;
+
+ }
+
+
+body{
+
+  background-image: url('background-img/pexels-jonathanborba-29283583.jpg');
+    font-family: 'Formula1', sans-serif;
+    font-size: x-large;
+    background-size: cover;
+    background-attachment: fixed;
+    margin: 0;
+}
+  
+
+  .coloromclaren{
+
+    width: 60px;
+    height: 60px;
+    background-color: orange;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+  }
+
+  .colormercedes{
+
+    width: 60px;
+    height: 60px;
+    background-color: turquoise;
+
+  }
+
+  .colorredbulls{
+
+    width: 60px;
+    height: 60px;
+    background-color: #054f77;
+
+  }
+
+.colorwillians{
+
+    width: 60px;
+    height: 60px;
+    background-color: blue;
+
+}
+
+.colorferrari{
+
+    width: 60px;
+    height: 60px;
+    background-color: red;
+
+}
+.colorhaas{
+
+    width: 60px;
+    height: 60px;
+    background-color: white;
+
+}
+
+
+.colorastonmartin{
+
+    width: 60px;
+    height: 60px;
+    background-color: #00665e;
+
+}
+
+.colorsauber{
+
+    width: 60px;
+    height: 60px;
+    background-color: black;
+
+}
+
+  .colorracingbulls{
+
+    width: 60px;
+    height: 60px;
+    background-color: darkblue;
+
+  }
+
+  .coloralpine{
+
+    width: 60px;
+    height: 60px;
+    background-color:#123456 ;
+
+  }
+
+
+
+  img{
+
+    width: 60px;
+    height: 60px;
+
+  }
+
+  td, th {
+
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    
+  }
+  
+  
+
+  @font-face {
+
+    font-family: 'Formula1';
+    src: url('../fontes/Formula1-Bold.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+    
+  }
+  
+  .position{
+
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    gap: 20px; 
+    padding: 0 20px; 
+    box-sizing: border-box;
+
+  }
+
+ 
+  .tabela-em-cima{
+
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+
+  }
+ 
+  
+  .tabelasistema{
+    background-color: rgba(0, 0, 0, 0.0); 
+  }
+  
+  p, h1{
+    text-align: center;
+    
+  }
+ul{
+  list-style: none;
+}
